@@ -14,7 +14,7 @@ input{
     margin-bottom: 10px;
 }
 
-input[value="○"]{
+input[value="o"]{
     color: red;
 }
 
