@@ -1,5 +1,5 @@
 body{
-    text-align:  center;
+    text-align: center;
     font-size: 30px;
 }
 
@@ -18,6 +18,6 @@ input[value="○"]{
     color: red;
 }
 
-input[value="x"]{
+input[value="×"]{
     color: blue;
 }
